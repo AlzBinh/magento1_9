@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Fr06_Layout>
+            <version>0.1.0</version>
+        </Fr06_Layout>
+    </modules>
+    <global>
+        <blocks>
+            <contenta>
+                <class>Fr06_Layout_Block</class>
+            </contenta>
+            <contentb>
+                <class>Fr06_Layout_Block</class>
+            </contentb>
+            <contentc>
+                <class>Fr06_Layout_Block</class>
+            </contentc>
+            <contentd>
+                <class>Fr06_Layout_Block</class>
+            </contentd>
+        </blocks>
+    </global>
+    <frontend>
+        <routers>
+            <layout>
+                <use>standard</use>
+                <args>
+                    <module>Fr06_Layout</module>
+                    <frontName>fr06-layout</frontName>
+                </args>
+            </layout>
+        </routers>
+    </frontend>
+</config>

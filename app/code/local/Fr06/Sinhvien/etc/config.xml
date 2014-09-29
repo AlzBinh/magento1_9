@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Fr06_Sinhvien>
+            <version>0.1.0</version>
+        </Fr06_Sinhvien>
+    </modules>
+    <global>
+        <blocks>
+            <sinhvien>
+                <class>Fr06_Sinhvien_Block</class>
+            </sinhvien>
+        </blocks>
+    </global>
+    <frontend>
+        <routers>
+            <sinhvien>
+                <use>standard</use>
+                <args>
+                    <module>Fr06_Sinhvien</module>
+                    <frontName>fr06-sinhvien</frontName>
+                </args>
+            </sinhvien>
+        </routers>
+        <layout>
+            <updates>
+                <sinhvien>
+                    <file>sinhvien.xml</file>
+                </sinhvien>
+            </updates>
+        </layout>
+    </frontend>
+</config>

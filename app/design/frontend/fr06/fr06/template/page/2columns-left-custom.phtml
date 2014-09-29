@@ -1,0 +1,23 @@
+<html>
+<head></head>
+<body>
+<div class="header"><?php echo $this->ggetChildHtml('header');?></div>
+<div  class="middle">
+    <div class="col-lef">
+        <?php
+        echo $this->getChildHtml('left'); ?>
+        ?>
+    </div>
+    <div class="col-main">
+        <?php
+        echo $this->getChildHtml('content');
+        ?>
+    </div>
+    <div class="footer">
+        <?php
+        echo $this->getChildHtml('footer');
+        ?>
+    </div>
+</div>
+</body>
+</html>

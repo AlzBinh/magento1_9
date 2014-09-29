@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Alanstormdotcom_Weblog>
+            <version>0.1.0</version>
+        </Alanstormdotcom_Weblog>
+    </modules>
+    <frontend>
+        <routers>
+            <weblog>
+                <use>standard</use>
+                <args>
+                    <module>Alanstormdotcom_Weblog</module>
+                    <frontName>weblog</frontName>
+                </args>
+            </weblog>
+        </routers>
+    </frontend>
+    <global>
+        <models>
+            <!--<weblog>-->
+                <!--<class>Alanstormdotcom_Weblog_Model</class>-->
+                <!--<resourceModel>weblog_mysql4</resourceModel>-->
+            <!--</weblog>-->
+            <weblog>
+                <class>Alanstormdotcom_Weblog_Model_Mysql4</class>
+                <entities>
+                    <blogpost>
+                        <table>blogposts</table>
+                    </blogpost>
+                </entities>
+            </weblog>
+            <resources>
+                <weblog_write>
+                   <connection>
+                       <use>core_write</use>
+                   </connection>
+                </weblog_write>
+                <weblog_read>
+                    <connection>
+                        <use>core_read</use>
+                    </connection>
+                </weblog_read>
+            </resources>
+        </models>
+    </global>
+</config>

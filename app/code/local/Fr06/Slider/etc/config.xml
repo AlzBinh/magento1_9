@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Fr06_Slider>
+            <version>0.1.0</version>
+        </Fr06_Slider>
+    </modules>
+    <global>
+        <blocks>
+            <slider>
+                <class>Fr06_Slider_Block</class>
+            </slider>
+        </blocks>
+    </global>
+    <frontend>
+        <routers>
+            <slider>
+                <use>standard</use>
+                <args>
+                    <module>Fr06_Slider</module>
+                    <frontName>fr06-slider</frontName>
+                </args>
+            </slider>
+        </routers>
+        <layout>
+            <updates>
+                <slider>
+                    <file>slider.xml</file>
+                </slider>
+            </updates>
+        </layout>
+    </frontend>
+</config>

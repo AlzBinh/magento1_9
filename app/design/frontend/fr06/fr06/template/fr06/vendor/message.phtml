@@ -1,0 +1,90 @@
+<?php
+if ($this->success()) {
+    echo '<div class="alert alert-success" role="alert">Send mail Success</div>';
+    echo '<a href="'.$this->getFormAction().'" class="btn btn-primary">Continue Send</a>';
+    echo '<a href="'.$this->getListUrl().'" class="btn btn-default btn-success">List Vendor</a>';
+}else {
+    ?>
+    <div id="messages_product_view"><?php
+        $errors = $this->Errors();
+        if ($errors)
+        {
+            $i = 0;
+            foreach ($errors as $k => $e)
+            {
+                echo '<div class="alert alert-danger" role="alert" id="alert_'.$k.$i++.'">'.$e.'</div>';
+            }
+        }
+        ?></div>
+    <div class="page-title">
+        <h1><?php echo $this->__('Message To  Vendor: ') . $this->getUserEmail(); ?></h1>
+    </div>
+    <form action="<?php echo $this->getFormAction(); ?>" id="register-vendor" method="post" class="scaffold-form" enctype="multipart/form-data">
+        <div class="fieldset">
+            <h2 class="legend"><?php $this->__('Contact Information') ?></h2>
+            <p class="required"><?php echo $this->__('* Required Fields') ?></p>
+            <ul class="form-list">
+                <li class="fields">
+                    <div class="field">
+                        <label for="my_email" class="required"><em>*</em><?php echo $this->__('Email Sender') ?></label>
+                        <div class="input-box">
+                            <input name="my_email" id="my_email" title="<?php echo $this->__('Email Sender') ?>" value="<?php echo $this->getSenderEmail(); ?>" class="input-text required-entry" type="text" />
+                        </div>
+                    </div>
+                    <div class="field">
+                        <label for="my_pass" class="required"><em>*</em><?php echo $this->__('Password') ?></label>
+                        <div class="input-box">
+                            <input name="my_pass" id="my_pass" title="<?php echo $this->__('Password') ?>" value="<?php echo $this->getPasswordSender();?>" class="input-text required-entry" type="password" />
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <hr />
+            <ul class="form-list">
+                <li class="fields">
+                    <div class="field">
+                        <label for="email" class="required"><em>*</em><?php echo $this->__('Email received') ?></label>
+                        <div class="input-box">
+                            <input name="email" id="email" title="<?php echo $this->__('Email received') ?>" value="<?php echo $this->getUserEmail(); ?>" class="input-text required-entry" type="text" />
+                        </div>
+                    </div>
+                    <div class="field">
+                        <label for="name" class="required"><em>*</em><?php echo $this->__('Name') ?></label>
+                        <div class="input-box">
+                            <input name="name" id="name" title="<?php echo $this->__('Name') ?>" value="" class="input-text required-entry" type="text" />
+                        </div>
+                    </div>
+                    <div class="field">
+                        <label for="title" class="required"><em>*</em><?php echo $this->__('Title') ?></label>
+                        <div class="input-box">
+                            <input name="title" id="title" title="<?php echo $this->__('Title') ?>" value="" class="input-text required-entry" type="text" />
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <label for="telephone" class="required"><?php echo $this->__('Telephone') ?></label>
+                    <div class="input-box">
+                        <input name="telephone" id="telephone" title="<?php echo $this->__('Telephone') ?>" value="" class="required-entry input-text validate-phoneLax" type="tel" />
+                    </div>
+                </li>
+                <li>
+                    <label for="message"><?php echo $this->__('Message') ?></label>
+                    <div class="input-box">
+                        <textarea name="message" id="message" title="<?php echo $this->__('Message') ?>" value="" class="input-text" cols="8" rows="5"></textarea>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="buttons-set">
+            <input type="text" name="hideit" id="hideit" value="" style="display:none !important;" />
+            <button type="submit" name="btnok" title="<?php echo $this->__('Submit') ?>" class="button" value="register"><span><span><?php echo $this->__('Send') ?></span></span></button>
+        </div>
+    </form>
+    <script type="text/javascript">
+        //<![CDATA[
+        var contactForm = new VarienForm('register-vendor', true);
+        //]]>
+    </script>
+<?php
+}
+?>

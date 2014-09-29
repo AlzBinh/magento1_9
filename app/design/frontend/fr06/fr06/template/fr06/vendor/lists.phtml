@@ -1,0 +1,47 @@
+<h1>List Customer registed Vendor</h1>
+<?php
+    $listStudents = $this->listStudents();
+    $url_message = $this->getUrlMessage();
+    if( ! empty($listStudents)) {
+        $i = 0;
+        echo '<table class="table table-bordered table-condensed table-hover">';
+            echo '<tr>';
+            echo '<th>STT</th>';
+            echo '<th>Image</th>';
+            echo '<th>Name</th>';
+            echo '<th>Email</th>';
+            echo '<th>Phone</th>';
+            echo '<th>Paypal Account</th>';
+            echo '<th>Edit</th>';
+            echo '<th>Delete</th>';
+            echo '<th>Email</th>';
+            echo '</tr>';
+
+            foreach ($listStudents as $stu)
+            {
+                echo '<tr>';
+                echo '<td>' . $i ++.'</td>';
+                echo '<td><img src="' . $stu['logo'].'" alt="logo thumbnail" width="50" height="50" /></td>';
+                echo '<td>' . $stu['name'].'</td>';
+                echo '<td>' . $stu['email'].'</td>';
+                echo '<td>' . $stu['phone'].'</td>';
+                echo '<td>' . $stu['account_id'].'</td>';
+                echo '<td><a class="btn-a" href="#">Sửa</a> </td>';
+                echo '<td><a class="btn-a" href="#">Xóa</a> </td>';
+                echo '<td><a class="btn-a" href="'.$url_message.DS.id.DS.$stu['vendor_id'].'">Email</a> </td>';
+                echo '</tr>';
+            }
+        echo '</table>';
+    }
+$url_insert = $this->getUrlInserter();
+?>
+<a class="btn btn-default btn-success" href="<?php echo $url_insert;?>">Registered form</a>
+<a class="btn btn-default btn-primary" href="<?php echo $url_message;?>">Message form</a>
+<script>
+    $document.ready(function ($e){
+        $('.btn-a').click(function ($e) {
+            alert('not support!');
+            return false;
+        });
+    });
+</script>

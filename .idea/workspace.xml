@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90b21def-9aeb-4279-be53-74c5939a1065" name="Default" comment="" />
+    <ignored path="magento.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/magento$default.coverage" NAME="default Coverage Results" MODIFIED="1411430024865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="magento">
+      <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello" module="magento" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/etc" module="magento" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/etc/config.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/etc/adminhtml.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/Block" module="magento" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/Block/Adminhtml" module="magento" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/Helper" module="magento" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/Helper/Data.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/controllers" module="magento" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/controllers/AdminhelloController.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Message.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Message.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="0" selection-start="2919" selection-end="2919" vertical-scroll-proportion="-0.21327014" vertical-offset="2391" max-vertical-offset="3024">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/message.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="41" selection-start="357" selection-end="357" vertical-scroll-proportion="-5.419355" vertical-offset="0" max-vertical-offset="2280">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Layout/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/a.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/c.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/page/3column-custom.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/d.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/Block/A.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/banner.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/Block/Html/Logo.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/default/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/html/logo.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/Block/Html/Banner.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/b.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/etc/adminhtml.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/render.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/html/banner.phtml" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Fr06_Sintax.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Sintax/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Sintax/Block/Myform.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/sintax.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Sintax/controllers/Adminhtml/MyformControler.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/sintax/myform.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Sintax/Helper/Data.php" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Alanstormdotcom_Weblog.xml" />
+        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/Model/Blogspot.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/Model/Blogpost.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/Model/Mysql4/Blogpost.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Fr06_Vendor.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Vendor.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Order.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Order.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Order/Collection.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/slider.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Setup.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/sql/vendor_setup/mysql4-install-0.1.0.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/form.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Form.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/message.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/vendor.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/List.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/lists.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Email/Template.php" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Aschroder_SMTPPro.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/message.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Message.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="46" />
+    <option name="y" value="-4" />
+    <option name="width" value="1234" />
+    <option name="height" value="804" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probably bugPHP</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass-stdlib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fr06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="&#10;emmet&#10;Setting&#10;setting&#10;font" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/skin/frontend/fr06/fr06/assets/img/logo" />
+      <recent name="$PROJECT_DIR$/skin/frontend/fr06/fr06/assets/js" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/default/layout" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/fr06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model" />
+      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Core" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/html" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template" />
+      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.vendor">
+    <configuration default="false" name="IndexController.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/code/local/Fr06/Catalog/controllers/IndexController.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="default" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/app/design/frontend/rwd/default" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="vendor" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.IndexController.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.default" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.vendor" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.vendor" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.default" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.IndexController.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="SHOW_TOOLBAR" value="true" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90b21def-9aeb-4279-be53-74c5939a1065" name="Default" comment="" />
+      <created>1410942619621</created>
+      <updated>1410942619621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="-4" width="1234" height="804" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30388978" sideWeight="0.43143812" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21636952" sideWeight="0.49906543" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="8.1037276E-4" sideWeight="0.5009346" order="5" side_tool="true" content_ui="tabs" x="145" y="113" width="308" height="698" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39971346" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30388978" sideWeight="0.43143812" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21636952" sideWeight="0.49906543" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="8.1037276E-4" sideWeight="0.5009346" order="5" side_tool="true" content_ui="tabs" x="145" y="113" width="308" height="698" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39971346" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Contacts/sql/contacts_setup/mysql4-upgrade-0.7.1-0.7.2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="26" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0" vertical-offset="445" max-vertical-offset="1248" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/Model/Blogpost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="1" selection-start="268" selection-end="268" vertical-scroll-proportion="-10.83871" vertical-offset="0" max-vertical-offset="480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/Model/Mysql4/Blogpost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="43" selection-start="304" selection-end="304" vertical-scroll-proportion="-9.290322" vertical-offset="0" max-vertical-offset="480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Contacts/Model/System/Config/Backend/Links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="66" selection-start="1245" selection-end="1254" vertical-scroll-proportion="0.0" vertical-offset="888" max-vertical-offset="1104" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Checkout/Model/Mysql4/Cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1203" selection-end="1203" vertical-scroll-proportion="0.0" vertical-offset="888" max-vertical-offset="1032" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Checkout/Model/Mysql4/Setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Checkout/Model/Mysql4/Agreement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Checkout/Model/Mysql4/Agreement/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Checkout/Model/Resource/Cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="37" selection-start="1480" selection-end="1497" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="2472" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Checkout/Model/Resource/Agreement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Checkout/Model/Resource/Agreement/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="52" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.0" vertical-offset="888" max-vertical-offset="2856" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Checkout/Model/Resource/Setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="97" selection-end="97" vertical-scroll-proportion="-1.6774193" vertical-offset="92" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Fr06_Vendor.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="9" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Fr06_Slider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Slider/Block/Slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="622" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="29" selection-start="3018" selection-end="3025" vertical-scroll-proportion="-10.064516" vertical-offset="1944" max-vertical-offset="49248" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Customer/Model/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="5" selection-start="4557" selection-end="4557" vertical-scroll-proportion="-5.645161" vertical-offset="3257" max-vertical-offset="7920">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Customer/Model/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="1" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-12.451612" vertical-offset="526" max-vertical-offset="1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/default/template/contacts/form.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="58" selection-start="0" selection-end="3924" vertical-scroll-proportion="-36.387096" vertical-offset="0" max-vertical-offset="1344" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Slider/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.14457831" vertical-offset="216" max-vertical-offset="936" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="17" selection-start="303" selection-end="303" vertical-scroll-proportion="-11.4838705" vertical-offset="4" max-vertical-offset="552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Order/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="37" selection-start="282" selection-end="282" vertical-scroll-proportion="0.52380955" vertical-offset="0" max-vertical-offset="504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="49" selection-start="272" selection-end="272" vertical-scroll-proportion="0.42580646" vertical-offset="0" max-vertical-offset="620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/sql/vendor_setup/mysql4-install-0.1.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="-12.387096" vertical-offset="0" max-vertical-offset="552">
+          <folding>
+            <marker date="1411972344603" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/slider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="95" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Trainning/Binhnh/Block/List.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Trainning/Binhnh/Block/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Contacts/Helper/Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="37" selection-start="1870" selection-end="1870" vertical-scroll-proportion="-22.451612" vertical-offset="144" max-vertical-offset="1056">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/vendor/9/wlogo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/vendor.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="74" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.0" vertical-offset="271" max-vertical-offset="1032">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/form.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="5" selection-start="0" selection-end="3528" vertical-scroll-proportion="-7.7419353" vertical-offset="0" max-vertical-offset="1824">
+          <folding>
+            <element signature="e#3144#3176#0" expanded="true" />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411981183919" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/lists.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="73" selection-start="1302" selection-end="1302" vertical-scroll-proportion="-16.258064" vertical-offset="216" max-vertical-offset="1248">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/List.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="60" selection-start="974" selection-end="974" vertical-scroll-proportion="-12.387096" vertical-offset="432" max-vertical-offset="1032">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="70" selection-start="911" selection-end="924" vertical-scroll-proportion="15.774194" vertical-offset="1281" max-vertical-offset="2736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Model/Email/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="-8.5161295" vertical-offset="0" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/etc/adminhtml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/Model/Extension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/Model/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.967742" vertical-offset="216" max-vertical-offset="2064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/Model/Extension/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2112">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="27" selection-start="1164" selection-end="1164" vertical-scroll-proportion="-4.0588236" vertical-offset="702" max-vertical-offset="11328">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="16" selection-start="1275" selection-end="1275" vertical-scroll-proportion="-6.2352943" vertical-offset="724" max-vertical-offset="1728">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="49" selection-start="1389" selection-end="1415" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="2064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Email/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="45" selection-start="1647" selection-end="1661" vertical-scroll-proportion="51.096775" vertical-offset="2736" max-vertical-offset="3432">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Aschroder/SMTPPro/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Aschroder_SMTPPro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="5" selection-start="593" selection-end="1088" vertical-scroll-proportion="-0.7741935" vertical-offset="600" max-vertical-offset="1944">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/message.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="41" selection-start="357" selection-end="357" vertical-scroll-proportion="-5.419355" vertical-offset="0" max-vertical-offset="2280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="0" selection-start="2919" selection-end="2919" vertical-scroll-proportion="-0.21327014" vertical-offset="2391" max-vertical-offset="3024">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

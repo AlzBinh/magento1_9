@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	<slider_index_index>
+		<reference name="head">
+            <action method="addItem">
+                <type>skin_css</type>
+                <name>assets/css/bootstrap.min.css</name>
+            </action>
+			<action method="addItem">
+                <type>skin_js</type>
+                <name>assets/js/bootstrap.min.js</name>
+            </action>
+        </reference>
+		<reference name="root">
+			<action method="setTemplate"><template>page/1column.phtml</template></action>
+		</reference>
+		<reference name="content">
+			<block type="slider/slider" name="slider.index.index" template="fr06/slider/slider.phtml" />
+		</reference>
+	</slider_index_index>
+</layout>

@@ -1,0 +1,17 @@
+<?php
+	$student = $this->getStudentData();
+	if (empty($student)) $action = 'insert';
+	else $action = 'update';
+?>
+<h2> <?php echo ucfirst($action); ?> student	</h2>
+<form class="form" role="form" method="post" action="<?php  echo Mage::getBaseUrl() . "fr06-sinhvien/index/" . $action ?>">
+	<label for="msv" class="control-label">Msv</label>
+	<input type="text" name="msv" class="form-control" placeholder="Msv" <?php if ($action != 'insert') echo 'value = "' . $student['msv'] . '"';?>/>
+	<label for="name"class="control-label">Name</label>
+	<input type="text" name="name" class="form-control" placeholder="Name" <?php if ($action != 'insert') echo 'value = "' . $student['name'] . '"'; ?>/>
+	<label for="email" class="control-label">Email</label>
+	<input type="text" name="email" class="form-control" placeholder="Email"  <?php if ($action != 'insert') echo 'value = "' . $student['email'] . '"'; ?> />
+	<label for="submit" class="control-label">Save</label>
+	<input type="submit" name="submit" class="btn btn-default" value="Save" style="background-color: orange;"/>
+	<a href="<?php echo Mage::getBaseUrl();?>fr06-sinhvien" class="btn btn-default btn-primary" >List Students </a>
+</form>

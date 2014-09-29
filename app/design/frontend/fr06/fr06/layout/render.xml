@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <action method="addItem">
+                <type>skin_css</type>
+                <name>assets/css/bootstrap.min.css</name>
+            </action>
+            <action method="addItem">
+                <type>skin_js</type>
+                <name>assets/js/bootstrap.min.js</name>
+            </action>
+        </reference>
+        <reference name="header">
+            <block type="banner/html_banner" name="render_header_banner" output="toHtml" as="render_header_banner" template="fr06/render/html/banner.phtml" >
+                <action method="setBlockId"><block_id>render_header_banner</block_id></action>
+            </block>
+            <block type="logo/html_logo" name="render_header_logo" output="toHtml" as="render_header_logo" template="fr06/render/html/logo.phtml" >
+                <action method="setBlockId"><block_id>render_header_logo</block_id></action>
+            </block>
+        </reference>
+    </default>
+    <cms_default_default>
+        <reference name="content">
+            <block type="slider/slider" name="slider.index.index" template="fr06/slider/slider.phtml" />
+        </reference>
+    </cms_default_default>
+	<render_index_index>
+		<reference name="root">
+			<action method="setTemplate"><template>page/3column-custom.phtml</template></action>
+		</reference>
+		<reference name="right">
+			<action method="unsetChildren"></action>
+            <block type="d/d" name="render.index.index.d" template="fr06/render/d.phtml" />
+		</reference>
+        <reference name="left">
+			<action method="unsetChildren"></action>
+            <block type="c/c" name="render.index.index.c" template="fr06/render/c.phtml" />
+		</reference>
+        <reference name="content">
+            <action method="unsetChildren"></action>
+            <block type="slider/slider" name="render.slide.index" template="fr06/slider/slider.phtml" />
+            <block type="a/a" name="render.index.index.a" template="fr06/render/a.phtml" />
+            <block type="b/b" name="render.index.index.b" template="fr06/render/b.phtml" />
+        </reference>
+        <reference name="footer">
+		</reference>
+	</render_index_index>
+</layout>

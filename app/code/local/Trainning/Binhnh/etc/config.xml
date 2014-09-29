@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Trainning_Binhnh>
+            <version>0.1.0</version>
+        </Trainning_Binhnh>
+    </modules>
+	<global>
+		<events>
+			<controller_action_predispatch_checkout_onepage_index>
+			  <observers>
+				<trainning_binhnh_price_observer>
+				  <type>singleton</type>
+				  <class>Trainning_Binhnh_Model_Price_Observer</class>
+				  <method>apply_discount_percent</method>
+				</trainning_binhnh_price_observer>
+			  </observers>
+			</controller_action_predispatch_checkout_onepage_index>     
+		</events>
+		<blocks>
+			<form>
+					<class>Trainning_Binhnh_Block</class>
+			</form>
+			<list>
+					<class>Trainning_Binhnh_Block</class>
+			</list>
+		</blocks>		
+	</global>
+    <frontend>
+        <routers>
+            <binhnh>
+                <use>standard</use>
+                <args>
+                    <module>Trainning_Binhnh</module>
+                    <frontName>binhnh</frontName>
+                </args>
+            </binhnh>
+        </routers>
+        <layout>
+            <updates>
+                <binhnh>
+                    <file>binhnh_checkout_observer.xml</file>
+                </binhnh>
+            </updates>
+        </layout>
+    </frontend>
+</config>

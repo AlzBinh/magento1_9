@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<Trainning_Binhnh>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Trainning_Binhnh>
+	</modules>
+</config>

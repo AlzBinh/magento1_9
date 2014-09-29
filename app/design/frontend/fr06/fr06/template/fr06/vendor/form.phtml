@@ -1,0 +1,71 @@
+<?php
+    if ($this->success()) {
+        echo '<div class="alert alert-success" role="alert">Insert Success</div>';
+        echo '<a href="'.$this->getFormAction().'" class="btn btn-primary">Continue insert</a>';
+        echo '<a href="'.$this->getListUrl().'" class="btn btn-default btn-success">List Vendor</a>';
+    }else {
+?>
+<div id="messages_product_view"><?php
+    $errors = $this->Errors();
+    if ($errors)
+    {
+        $i = 0;
+        foreach ($errors as $k => $e)
+        {
+            echo '<div class="alert alert-danger" role="alert" id="alert_'.$k.$i++.'">'.$e.'</div>';
+        }
+    }
+    ?></div>
+<div class="page-title">
+    <h1><?php echo $this->__('Register Vendor') ?></h1>
+</div>
+<form action="<?php echo $this->getFormAction(); ?>" id="register-vendor" method="post" class="scaffold-form" enctype="multipart/form-data">
+    <div class="fieldset">
+        <h2 class="legend"><?php $this->__('Contact Information') ?></h2>
+        <p class="required"><?php echo $this->__('* Required Fields') ?></p>
+        <ul class="form-list">
+            <li class="fields">
+                <div class="field">
+                    <label for="name" class="required"><em>*</em><?php echo $this->__('Name') ?></label>
+                    <div class="input-box">
+                        <input name="name" id="name" title="<?php echo $this->__('Name') ?>" value="<?php echo $this->escapeHtml($this->helper('contacts')->getUserName()) ?>" class="input-text required-entry" type="text" />
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="email" class="required"><em>*</em><?php echo $this->__('Email') ?></label>
+                    <div class="input-box">
+                        <input name="email" id="email" title="<?php echo $this->__('Email') ?>" value="<?php echo $this->escapeHtml($this->helper('contacts')->getUserEmail()) ?>" class="input-text required-entry validate-email" type="email" autocapitalize="off" autocorrect="off" spellcheck="false" />
+                    </div>
+                </div>
+            </li>
+            <li>
+                <label for="telephone" class="required"><?php echo $this->__('Telephone') ?></label>
+                <div class="input-box">
+                    <input name="telephone" id="telephone" title="<?php echo $this->__('Telephone') ?>" value="" class="required-entry input-text validate-phoneLax" type="tel" />
+                </div>
+            </li>
+            <li>
+                <label for="paypal"><?php echo $this->__('Paypal Account') ?></label>
+                <div class="input-box">
+                    <input name="paypal" id="paypal" title="<?php echo $this->__('Paypal') ?>" value="" class="input-text" type="tel" />
+                </div>
+            </li>
+            <li class="field">
+                <label for="paypal" class="required"><em>*</em><?php echo $this->__('Logo') ?></label>
+                <input type="file" name="logo" class="btn btn-default"/>
+            </li>
+        </ul>
+    </div>
+    <div class="buttons-set">
+        <input type="text" name="hideit" id="hideit" value="" style="display:none !important;" />
+        <button type="submit" name="btnok" title="<?php echo $this->__('Submit') ?>" class="button" value="register"><span><span><?php echo $this->__('Send') ?></span></span></button>
+    </div>
+</form>
+<script type="text/javascript">
+    //<![CDATA[
+    var contactForm = new VarienForm('register-vendor', true);
+    //]]>
+</script>
+<?php
+    }
+?>

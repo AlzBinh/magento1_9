@@ -1,0 +1,21 @@
+<h1>Your's Order</h1>
+<?php
+
+	$customer = $this->getCustomerInfo();	
+	echo '<br /><b>Name</b>:' . $customer['name'] ;
+	echo '<br /><b>Email</b>:' . $customer['email'];
+	echo '<br /><b>Address</b>:' . $customer['address'];
+	echo '<br /><b>Phone</b>:' . $customer['phone'];
+	
+	echo '<hr />';
+	$carts = $this->getCartInfo();
+	foreach($carts as $item) {
+	    echo 'ID: '.$item->getProductId().'<br />';
+	    echo 'Name: '.$item->getName().'<br />';
+	    echo 'Sku: '.$item->getSku().'<br />';
+	    echo 'Quantity: '.$item->getQty().'<br />';
+	    echo 'Price: '.$item->getPrice().'<br />';
+	    echo "<br />";
+	}
+?>
+<caption>Thank you</caption>

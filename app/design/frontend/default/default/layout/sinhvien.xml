@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <sinhvien_index_index>
+        <reference name="root">
+            <action method="setTemplate"><template>page/2columns-right.phtml</template></action>
+        </reference>
+        <reference name="head">
+            <action method="addItem">
+                <type>skin_css</type>
+                <name>assets/css/bootstrap.min.css</name>
+            </action>
+        </reference>
+        <reference name="content">
+            <block type="sinhvien/list" name="sinhvien.index.index" template="fr06/sinhvien/index.phtml" />
+        </reference>
+    </sinhvien_index_index>
+    <sinhvien_index_insert>
+    <!--        <reference name="root">
+                <action method="setTemplate"><template>page/1columns.phtml</template></action>
+            </reference>-->
+        <reference name="head">
+            <action method="addItem">
+                <type>skin_css</type>
+                <name>assets/css/bootstrap.min.css</name>
+            </action>
+        </reference>
+        <reference name="content">
+            <block type="sinhvien/form" name="sinhvien.index.insert" template="fr06/sinhvien/insert.phtml" />
+        </reference>
+    </sinhvien_index_insert>
+    <sinhvien_index_update>
+    <!--        <reference name="root">
+                <action method="setTemplate"><template>page/1columns.phtml</template></action>
+            </reference>-->
+        <reference name="head">
+            <action method="addItem">
+                <type>skin_css</type>
+                <name>assets/css/bootstrap.min.css</name>
+            </action>
+        </reference>
+        <reference name="content">
+            <block type="sinhvien/form" name="sinhvien.index.update" template="fr06/sinhvien/insert.phtml" />
+        </reference>
+    </sinhvien_index_update>
+</layout>

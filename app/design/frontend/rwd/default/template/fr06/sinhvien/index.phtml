@@ -1,0 +1,32 @@
+<?php
+    $list_students =  $this->getData();
+?>
+<h2>List Students</h2>
+<table class="table table-consended table-responsive table-border">
+    <tr>
+        <th>STT</th>
+        <th>MSV</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+    <?php
+        if (! empty($list_students)) {
+            $i = 1;
+            foreach ($list_students as $student) {
+                echo '<tr>';
+                    echo '<td>'.$i ++.'</td>';                    
+                    echo '<td>'.$student['msv'].'</td>';                    
+                    echo '<td>'.$student['name'].'</td>';                    
+                    echo '<td>'.$student['email'].'</td>';                    
+                    //echo '<td><input type="checkbox" name="edit_'.$student['msv'].'">Edit</td>';
+                    echo '<td><a href="'.Mage::getBaseUrl().'fr06-sinhvien/index/update/msv/'.$student['msv'].'">Edit</a></td>';
+                    echo '<td><a href="'.Mage::getBaseUrl().'fr06-sinhvien/index/delete/msv/'.$student['msv'].'">Delete</a></td>';
+                    //echo '<td><input type="checkbox" name="delete_'.$student['msv'].'">Delete</td>';
+                echo '</tr>';
+            }
+        }
+    ?>
+</table>
+<a href="<?php echo Mage::getBaseUrl();?>fr06-sinhvien/index/insert" class="btn btn-default btn-primary">Add student</a>

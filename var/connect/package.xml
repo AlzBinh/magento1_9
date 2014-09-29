@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Fr06</name>
+    <version>0.1.0</version>
+    <stability>devel</stability>
+    <license uri="http://www.gnu.org/licenses/gpl-2.0.html">GNU Lesser General Public License (LGPL)</license>
+    <channel>Vendor</channel>
+    <extends/>
+    <summary>Day9_Fr06_Vendor</summary>
+    <description>Vendor Fr06 Assigment</description>
+    <notes>Fr06_Vendor_Binhnh</notes>
+    <authors><author><name>Nguy&#x1EC5;n Huy B&#xEC;nh</name><user>Admin</user><email>binhnh@smartosc.com</email></author></authors>
+    <date>2014-09-29</date>
+    <time>13:35:56</time>
+    <contents><target name="magelocal"><dir><dir name="home"><dir name="zmerrychristmas"><dir name="public_html"><dir name="com"><dir name="magento1_9"><dir name="magento"><dir name="app"><dir name="code"><dir name="local"><dir name="Fr06"><file name="Vendor" hash=""/></dir></dir></dir></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="mageskin"><dir><dir name="home"><dir name="zmerrychristmas"><dir name="public_html"><dir name="com"><dir name="magento1_9"><dir name="magento"><dir name="skin"><dir name="frontend"><file name="fr06" hash=""/></dir></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="magedesign"><dir><dir name="home"><dir name="zmerrychristmas"><dir name="public_html"><dir name="com"><dir name="magento1_9"><dir name="magento"><dir name="app"><dir name="design"><dir name="frontend"><file name="fr06" hash=""/></dir></dir></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="magemedia"><dir><dir name="home"><dir name="zmerrychristmas"><dir name="public_html"><dir name="com"><dir name="magento1_9"><dir name="magento"><dir name="media"><file name="vendor" hash=""/></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir><dir name="home"><dir name="zmerrychristmas"><dir name="public_html"><dir name="com"><dir name="magento1_9"><dir name="magento"><dir name="app"><dir name="etc"><dir name="modules"><file name="Fr06_Vendor.xml" hash=""/></dir></dir></dir></dir></dir></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>4.0.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<Fr06_Hello>
+			<version>0.1.0</version>
+		</Fr06_Hello>
+	</modules>
+	<global>
+		<blocks>
+			<hello>
+					<class>Fr06_Hello_Block</class>
+			</hello>
+		</blocks>
+	</global>
+	<frontend>
+		<routers>
+			<hello>
+				<use>standard</use>
+				<args>
+					<module>Fr06_Hello</module>
+					<frontName>fr06-hello</frontName>
+				</args>
+			</hello>
+		</routers>
+		<events>
+			<controller_action_layout_load_before>
+				<observers>
+					<fr06_hello_observer>
+						<type>singleton</type>
+						<class>fr06_hello_model_observer</class>
+						<method>hello</method>
+					</fr06_hello_observer>
+				</observers>
+			</controller_action_layout_load_before>
+		</events>
+		<layout>
+			<updates>
+				<hello>
+					<file>hello.xml</file>
+				</hello>
+			</updates>
+		</layout>
+	</frontend>
+</config>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <global>
+	<models>
+		<xyzcatalog>
+			 <class>Xyz_Catalog_Model</class>
+		</xyzcatalog>
+	</models>
+<!--	<events>
+	  <controller_action_predispatch_checkout_onepage_index>
+		<observers>
+		  <xyz_catalog_price_observer>
+			<type>singleton</type>
+			<class>Xyz_Catalog_Model_Price_Observer</class>
+			<method>apply_discount_percent</method>
+		  </xyz_catalog_price_observer>
+		</observers>
+	  </controller_action_predispatch_checkout_onepage_index>     
+	</events>-->
+  </global>
+</config>

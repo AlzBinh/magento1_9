@@ -1,0 +1,70 @@
+<html>
+<head>
+    <!-- declare meta tag -->
+    <?php echo $this->getChildHtml('meta');?>
+    <?php echo $this->getChildHtml('z_head');?>
+    <!-- end declare -->
+
+    <!-- declare title  tag -->
+    <?php echo $this->getChildHtml('z_title');?>
+    <!-- end title declare -->
+
+    <!-- declare css links -->
+    <?php echo $this->getChildHtml('z_css');?>
+    <!-- end css links declare -->
+
+    <!-- declare js links -->
+    <?php echo $this->getChildHtml('z_js');?>
+    <!-- end js links declare -->
+
+    <!-- declare favicon icon -->
+    <?php echo $this->getChildHtml('z_favicon');?>
+    <!-- end favicon icon declare -->
+</head>
+<body>
+    <section class="header">
+        <div class="header">
+            <?php echo $this->getChildHtml('z_notify');?>
+            <?php echo $this->getChildHtml('z_header');?>
+            </div>
+    </section>
+        <div class="container ">
+            <div class="col-lg-12 col-xs-12">
+                <div class="nav menu">
+                    <?php echo $this->getChildHtml('z_menu');?>
+                </div>
+                <div class="wrapper">
+                    <?php echo $this->getChildHtml('z_breadcrumbs');?>
+                </div>
+                <div class="row">
+                <section class="midlle">
+                    <div  class="middle">
+                        <div class="col-lef col-lg-3 col-sm-6">
+                            <?php
+                                echo $this->getChildHtml('z_left'); ?>
+                        </div>
+                        <div class="col-main col-lg-6 col-sm-6">
+                            <?php
+                                echo $this->getChildHtml('z_center');
+                            ?>
+                        </div>
+                        <div class="col-right col-lg-3 col-sm-6">
+                            <?php
+                                echo $this->getChildHtml('z_right');
+                            ?>
+                        </div>
+                    </div>
+                </section>
+                </div>
+            </div>
+        <section class="footer">
+            <div class="footer">
+                <?php
+                   echo $this->getChildHtml('z_footer');
+                ?>
+                </div>
+        </section>
+        </div>
+
+</body>
+</html>

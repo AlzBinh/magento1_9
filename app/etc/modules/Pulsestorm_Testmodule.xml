@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Pulsestorm_Testmodule>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </Pulsestorm_Testmodule>
+    </modules>
+</config>
