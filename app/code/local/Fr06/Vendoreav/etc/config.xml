@@ -1,0 +1,19 @@
+<?xml version="0.1.0" ?>
+<config>
+	<modules>
+		<Fr06_Vendoreav>
+			<version>0.1.0</version>
+		</Fr06_Vendoreav>
+	</modules>
+	<frontend>
+		<routers>
+			<vendoreav>
+				<use>standard</use>
+				<args>
+					<module>Fr06_Vendoreav</module>
+					<frontName>fr06-vendoreav</frontName>
+				</args>
+			</vendoreav>
+		</routers>
+	</frontend>
+</config>

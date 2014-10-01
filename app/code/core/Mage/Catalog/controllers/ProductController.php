@@ -52,7 +52,6 @@ class Mage_Catalog_ProductController extends Mage_Core_Controller_Front_Action
 
         $params = new Varien_Object();
         $params->setCategoryId($categoryId);
-
         return Mage::helper('catalog/product')->initProduct($productId, $this, $params);
     }
 
