@@ -36,8 +36,22 @@
 				<setup>
 					<module>Magentotutorial_Complexworld</module>
 					<class>Magentotutorial_Complexworld_Model_Resource_Setup</class>
+                    <connection>
+                        <use>core_setup</use>
+                    </connection>
 				</setup>
 			</complexworld_setup>
+            <vendor_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </vendor_write>
+
+            <vendor_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </vendor_read>
 		</resources>
 	</global>
 </config>

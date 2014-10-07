@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Magento SMTP Pro Extension
 by Ashley Schroder (aschroder.com)
 
@@ -34,9 +33,3 @@ Q: Self test is failing with "Exception message was: 5.7.1 Username and Password
 A: It's actually good advice to learn more here:  http://support.google.com/mail/bin/answer.py?answer=14257. But two things to check: 
 1) that you are really 110% sure you have the right username and password (test it on gmail.com)
 2) If that does work, then Google may have blocked your server IP due to too many wrong passwords. You need to log in to gmail.com _from_ that IP - in order to answer the captcha and allow the IP through again. There's a few ways to do that - SOCKS proxy, X forward a browser, use Lynx.
-=======
-magento1_9
-==========
-
-My magento self learning website 
->>>>>>> d1c91319637a73c6963e60be14eb0621b36132ba

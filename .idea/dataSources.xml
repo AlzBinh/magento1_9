@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="239407470">
+  <component name="DataSourceManagerImpl" format="xml" hash="1759973213">
     <data-source source="LOCAL" name="MySQL - magento1_9@localhost" uuid="e21f0cfb-9b68-443b-9a4d-be5bcb5b5eb1">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/magento1_9</jdbc-url>
+      <user-name>magento</user-name>
+      <user-password>dfc7dfcbdfcddfcfdfc4dfdedfc5</user-password>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="MySQL - @localhost" uuid="0932e7fc-69b2-49e7-9997-06bc96bc65b3">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <user-name>magento</user-name>
       <user-password>dfc7dfcbdfcddfcfdfc4dfdedfc5</user-password>
       <driver-properties>

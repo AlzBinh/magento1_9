@@ -1,4 +1,4 @@
-<?xml version="0.1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<modules>
 		<Fr06_Vendoreav>
@@ -7,13 +7,74 @@
 	</modules>
 	<frontend>
 		<routers>
-			<vendoreav>
+			<fr06_vendoreav>
 				<use>standard</use>
 				<args>
 					<module>Fr06_Vendoreav</module>
 					<frontName>fr06-vendoreav</frontName>
 				</args>
-			</vendoreav>
+			</fr06_vendoreav>
 		</routers>
+        <layout>
+            <updates>
+                <vendoreav>
+                    <file>vendoreav.xml</file>
+                </vendoreav>
+            </updates>
+        </layout>
+        <events>
+            <customer_register_success>
+                <observers>
+                    <Fr06_Vendoreav_Customer_Observer>
+                        <type>Singleton</type>
+                        <class>fr06_vendoreav_model_customer_observer</class>
+                        <method>registerModel</method>
+                    </Fr06_Vendoreav_Customer_Observer>
+                </observers>
+            </customer_register_success>
+        </events>
 	</frontend>
+    <global>
+        <!--<blocks>-->
+            <!--<fr06_vendoreav_form>-->
+                <!--<class>Fr06_Vendoreav_Block</class>-->
+            <!--</fr06_vendoreav_form>-->
+        <!--</blocks>-->
+        <models>
+            <fr06_vendoreav>
+                <class>Fr06_Vendoreav_Model</class>
+                <resourceModel>fr06_vendoreav_resource</resourceModel>
+            </fr06_vendoreav>
+            <fr06_vendoreav_resource>
+                <class>Fr06_Vendoreav_Model_Resource</class>
+                <entities>
+                    <vendorer>
+                        <table>customer_entity</table>
+                    </vendorer>
+                </entities>
+            </fr06_vendoreav_resource>
+        </models>
+        <resources>
+            <fr06_vendoreav_setup>
+                <setup>
+                    <module>Fr06_Vendoreav</module>
+                    <class>Fr06_Vendoreav_Model_Resource_Setup</class>
+                    <connection>
+                        <use>core_setup</use>
+                    </connection>
+                </setup>
+            </fr06_vendoreav_setup>
+            <fr06_vendoreav_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </fr06_vendoreav_write>
+
+            <fr06_vendoreav_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </fr06_vendoreav_read>
+        </resources>
+    </global>
 </config>

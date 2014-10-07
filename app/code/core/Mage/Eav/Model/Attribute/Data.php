@@ -76,7 +76,6 @@ class Mage_Eav_Model_Attribute_Data
                 $dataModel = self::$_dataModels[$attribute->getFrontendInput()];
             }
         }
-
         $dataModel->setAttribute($attribute);
         $dataModel->setEntity($entity);
 

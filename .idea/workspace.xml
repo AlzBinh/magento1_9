@@ -42,37 +42,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Abstract.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/Model/Entity/Abstract.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1717" column="6" selection-start="50169" selection-end="50169" vertical-scroll-proportion="-6.806452" vertical-offset="40445" max-vertical-offset="41040">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IndexController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Magentotutorial/Complexworld/controllers/IndexController.php">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="19" selection-start="832" selection-end="832" vertical-scroll-proportion="-8.806452" vertical-offset="279" max-vertical-offset="912">
+            <state line="47" column="80" selection-start="1758" selection-end="1758" vertical-scroll-proportion="-11.806452" vertical-offset="762" max-vertical-offset="1416">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Url.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Category/Url.php">
+      <file leaf-file-name="Session.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Customer/Model/Session.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3384">
+            <state line="220" column="41" selection-start="6060" selection-end="6081" vertical-scroll-proportion="-6.484375" vertical-offset="4313" max-vertical-offset="7920">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/etc/config.xml">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/etc/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="225" column="47" selection-start="7811" selection-end="7827" vertical-scroll-proportion="0.0" vertical-offset="5328" max-vertical-offset="20784">
+            <state line="0" column="29" selection-start="0" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2064">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Xyz/Catalog/Block/Form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="192">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Xyz/Catalog/etc/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="624">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Observer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Xyz/Catalog/Model/Price/Observer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="12" selection-start="1532" selection-end="1532" vertical-scroll-proportion="0.5890411" vertical-offset="760" max-vertical-offset="1344">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Observer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/Model/Customer/Observer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="64" selection-start="346" selection-end="346" vertical-scroll-proportion="-2.3225806" vertical-offset="264" max-vertical-offset="1008">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Customer/Model/Customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="736.25806" vertical-offset="22824" max-vertical-offset="31872">
               <folding />
             </state>
           </provider>
@@ -88,57 +124,57 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/c.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/page/3column-custom.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/d.phtml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/Block/A.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/banner.phtml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/Block/Html/Logo.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/default/template/page/html/header.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/html/logo.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/page/html/header.phtml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/Block/Html/Banner.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/b.phtml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/controllers/IndexController.php" />
-        <option value="$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/etc/adminhtml.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/etc/config.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/render.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/html/banner.phtml" />
-        <option value="$PROJECT_DIR$/app/etc/modules/Fr06_Sintax.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Sintax/etc/config.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Sintax/Block/Myform.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/sintax.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Sintax/controllers/Adminhtml/MyformControler.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/sintax/myform.phtml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Sintax/Helper/Data.php" />
-        <option value="$PROJECT_DIR$/app/etc/modules/Alanstormdotcom_Weblog.xml" />
-        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/Model/Blogspot.php" />
-        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/Model/Blogpost.php" />
-        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/etc/config.xml" />
-        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/Model/Mysql4/Blogpost.php" />
-        <option value="$PROJECT_DIR$/app/code/community/Alanstormdotcom/Weblog/controllers/IndexController.php" />
-        <option value="$PROJECT_DIR$/app/etc/modules/Fr06_Vendor.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Vendor.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Order.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Order.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Order/Collection.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/slider.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Setup.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/sql/vendor_setup/mysql4-install-0.1.0.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/form.phtml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Form.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/message.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/vendor.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/List.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/lists.phtml" />
         <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/etc/config.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Email/Template.php" />
-        <option value="$PROJECT_DIR$/app/etc/modules/Aschroder_SMTPPro.xml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/controllers/IndexController.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/message.phtml" />
-        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Message.php" />
-        <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/controllers/ProductController.php" />
-        <option value="$PROJECT_DIR$/app/code/local/Magentotutorial/Complexworld/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/vendor.xml" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Fr06_Final.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Catalogs/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Render/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/default/layout/binhnh_final.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Company/Web/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Company_Web.xml" />
+        <option value="$PROJECT_DIR$/app/code/community/Pulsestorm/Adminhello/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/binhnh_final.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Helper/Data.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/controllers/Adminhtml/finalController.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Company/Web/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Model/Albums.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Model/Resource/Setup.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Model/Resource/Albums.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Model/Resource/Albums/Collection.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Final/Grid.php" />
+        <option value="$PROJECT_DIR$/app/etc/modules/Inchoo_Orders.xml" />
+        <option value="$PROJECT_DIR$/app/code/community/Inchoo/Orders/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/community/Inchoo/Orders/etc/adminhtml.xml" />
+        <option value="$PROJECT_DIR$/app/code/community/Inchoo/Orders/Helper/Data.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Inchoo/Orders/controllers/Adminhtml/OrderController.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Inchoo/Orders/Block/Adminhtml/Sales/Order.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Inchoo/Orders/Block/Adminhtml/Sales/Order/Grid.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Final/Albums/Grid.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/controllers/FinalController.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Final/Albums.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Inchoo/Orders/Block/Adminhtml/Template/Grid/Renderer/Image.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/adminhtml/album/form.phtml" />
+        <option value="$PROJECT_DIR$/app/design/adminhtml/default/default/layout/binhnh_final.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Layout/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/design/adminhtml/default/default/template/fr06/layout/content_b.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/etc/adminhtml.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/sql/fr06_final_setup/mysql4-install-0.1.0.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Template/Grid/Renderer/Image.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums/Edit/Message.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Company/Web/Block/Adminhtml/Web/Grid.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Company/Web/Block/Adminhtml/Web/Edit.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums/Edit.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums/Edit/Form.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Template/Grid/Renderer/Link.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums/Grid.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Final/controllers/Adminhtml/FinalController.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/Model/Customer/Observer.php" />
       </list>
     </option>
   </component>
@@ -272,7 +308,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,68 +327,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="9" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,6 +358,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fr06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="album" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fr06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="album" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -416,11 +442,255 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="etc" />
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fr06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fr06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fr06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fr06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fr06" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xyz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Price" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xyz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xyz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Xyz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Block" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -463,14 +733,6 @@
               <option name="myItemId" value="code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Magentotutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -490,195 +752,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Category" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Category" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Attribute" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="code" />
+              <option name="myItemId" value="community" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -689,7 +763,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="SearchEverywhereHistory" value="&#10;history&#10;his&#10;emmet&#10;Setting&#10;setting&#10;font" />
+    <property name="SearchEverywhereHistory" value="&#10;set&#10;history&#10;his&#10;emmet&#10;Setting&#10;setting&#10;font" />
     <property name="options.lastSelected" value="Errors" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -700,17 +774,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/skin/frontend/fr06/fr06/assets/img/logo" />
-      <recent name="$PROJECT_DIR$/skin/frontend/fr06/fr06/assets/js" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/default/layout" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/fr06" />
+      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Final/controllers" />
+      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Final" />
+      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Final/Block" />
+      <recent name="$PROJECT_DIR$/app/design/adminhtml/fr06/fr06" />
+      <recent name="$PROJECT_DIR$/app/design/adminhtml/fr06/default" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model" />
-      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Core" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/render/html" />
-      <recent name="$PROJECT_DIR$/app/design/frontend/fr06/fr06/template" />
+      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml" />
+      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Final/controllers" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/code/local/Fr06/Final/etc" />
       <recent name="$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout" />
     </key>
   </component>
@@ -782,6 +856,7 @@
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
     <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
     <option name="SHOW_TOOLBAR" value="true" />
   </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
@@ -811,17 +886,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="-4" width="1234" height="804" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20988655" sideWeight="0.43143812" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21555915" sideWeight="0.43143812" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21636952" sideWeight="0.49906543" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="8.1037276E-4" sideWeight="0.5009346" order="5" side_tool="true" content_ui="tabs" x="145" y="113" width="308" height="698" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16774717" sideWeight="0.5009346" order="5" side_tool="true" content_ui="tabs" x="145" y="113" width="308" height="698" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39971346" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -829,31 +904,11 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30388978" sideWeight="0.43143812" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21636952" sideWeight="0.49906543" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="8.1037276E-4" sideWeight="0.5009346" order="5" side_tool="true" content_ui="tabs" x="145" y="113" width="308" height="698" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39971346" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -874,301 +929,285 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Customer/Model/Form.php">
+    <entry file="file://$PROJECT_DIR$/app/code/community/Inchoo/Orders/Block/Adminhtml/Sales/Order/Grid.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="1" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-12.451612" vertical-offset="526" max-vertical-offset="1080" />
+        <state line="28" column="14" selection-start="1035" selection-end="1035" vertical-scroll-proportion="-7.419355" vertical-offset="442" max-vertical-offset="3048" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/default/template/contacts/form.phtml">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Helper/Data.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="58" selection-start="0" selection-end="3924" vertical-scroll-proportion="-36.387096" vertical-offset="0" max-vertical-offset="1344" />
+        <state line="9" column="0" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="384" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Slider/etc/config.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/community/Inchoo/Orders/Block/Adminhtml/Template/Grid/Renderer/Image.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.14457831" vertical-offset="216" max-vertical-offset="936" />
+        <state line="15" column="1" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="504" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Helper/Image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="1" selection-start="1128" selection-end="1128" vertical-scroll-proportion="0.0" vertical-offset="353" max-vertical-offset="15552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/adminhtml/album/form.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="9" selection-start="4" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="526" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/base/default/template/smtppro/view.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/layout/adminnotification.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="12" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/layout/captcha.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1542" selection-end="1858" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1296" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/layout/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Layout/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="5" selection-start="4788" selection-end="4856" vertical-scroll-proportion="-12.387096" vertical-offset="1872" max-vertical-offset="4032" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Sales/Model/Order/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="51" selection-start="1633" selection-end="1633" vertical-scroll-proportion="-23.225807" vertical-offset="144" max-vertical-offset="5688" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Model/Albums.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="63" selection-start="136" selection-end="160" vertical-scroll-proportion="-5.419355" vertical-offset="0" max-vertical-offset="552" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Order.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="303" selection-end="303" vertical-scroll-proportion="-11.4838705" vertical-offset="4" max-vertical-offset="552" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Order/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="37" selection-start="282" selection-end="282" vertical-scroll-proportion="0.52380955" vertical-offset="0" max-vertical-offset="504" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="49" selection-start="272" selection-end="272" vertical-scroll-proportion="0.42580646" vertical-offset="0" max-vertical-offset="620" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/sql/vendor_setup/mysql4-install-0.1.0.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="590" selection-end="590" vertical-scroll-proportion="-12.387096" vertical-offset="0" max-vertical-offset="552" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/slider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="95" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="624" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Trainning/Binhnh/Block/List.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Trainning/Binhnh/Block/Form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Contacts/Helper/Data.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="37" selection-start="1870" selection-end="1870" vertical-scroll-proportion="-22.451612" vertical-offset="144" max-vertical-offset="1056" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/media/vendor/9/wlogo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/vendor.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="74" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.0" vertical-offset="271" max-vertical-offset="1032" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/form.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="0" selection-end="3528" vertical-scroll-proportion="-7.7419353" vertical-offset="0" max-vertical-offset="1824" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/lists.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="73" selection-start="1302" selection-end="1302" vertical-scroll-proportion="-16.258064" vertical-offset="216" max-vertical-offset="1248" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/List.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="60" selection-start="974" selection-end="974" vertical-scroll-proportion="-12.387096" vertical-offset="432" max-vertical-offset="1032" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="70" selection-start="911" selection-end="924" vertical-scroll-proportion="15.774194" vertical-offset="1281" max-vertical-offset="2736" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Model/Email/Template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14808" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Resource/Setup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="-8.5161295" vertical-offset="0" max-vertical-offset="456" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/etc/adminhtml.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/Model/Extension.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7800" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/Model/Session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.967742" vertical-offset="216" max-vertical-offset="2064" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/Model/Extension/Collection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2112" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/etc/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="27" selection-start="1164" selection-end="1164" vertical-scroll-proportion="-4.0588236" vertical-offset="702" max-vertical-offset="11328" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Connect/etc/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="16" selection-start="1275" selection-end="1275" vertical-scroll-proportion="-6.2352943" vertical-offset="724" max-vertical-offset="1728" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/etc/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="49" selection-start="1389" selection-end="1415" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="2064" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Model/Email/Template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="45" selection-start="1647" selection-end="1661" vertical-scroll-proportion="51.096775" vertical-offset="2736" max-vertical-offset="3432" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Aschroder/SMTPPro/etc/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5040" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Aschroder_SMTPPro.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
+        <state line="7" column="63" selection-start="136" selection-end="160" vertical-scroll-proportion="-5.419355" vertical-offset="0" max-vertical-offset="552" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/controllers/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="5" selection-start="593" selection-end="1088" vertical-scroll-proportion="-0.7741935" vertical-offset="600" max-vertical-offset="1944" />
+        <state line="27" column="15" selection-start="643" selection-end="643" vertical-scroll-proportion="-4.096774" vertical-offset="521" max-vertical-offset="1944" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/template/fr06/vendor/message.phtml">
+    <entry file="file://$PROJECT_DIR$/var/log/system.log">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/fr06/album/0/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/etc/adminhtml.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="41" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="2280">
+        <state line="25" column="17" selection-start="817" selection-end="820" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="1320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/sql/web_setup/mysql4-install-0.1.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="24" selection-start="1360" selection-end="1360" vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="3000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="40" selection-start="2438" selection-end="2455" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="2184" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/sql/vendor_setup/mysql4-install-0.1.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="38" selection-start="251" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/sql/fr06_final_setup/mysql4-install-0.1.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="16" selection-start="508" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="2" selection-start="1604" selection-end="3445" vertical-scroll-proportion="0.047933884" vertical-offset="1195" max-vertical-offset="2736" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/layout/binhnh_final.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/template/fr06/layout/content_b.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="5" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.0" vertical-offset="869" max-vertical-offset="1464" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/Block/Adminhtml/Web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="277" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/Block/Web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="57" selection-start="293" selection-end="293" vertical-scroll-proportion="-8.5161295" vertical-offset="0" max-vertical-offset="528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="68" selection-start="989" selection-end="989" vertical-scroll-proportion="0.41157025" vertical-offset="567" max-vertical-offset="4440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/Block/Adminhtml/Web/Grid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="46" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="2928" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/Block/Adminhtml/Web/Edit/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="28" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/Block/Adminhtml/Web/Edit/Tabs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="5" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="696" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/Block/Adminhtml/Web/Edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="5" selection-start="1598" selection-end="1598" vertical-scroll-proportion="0.0" vertical-offset="619" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums/Edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="42" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.0" vertical-offset="768" max-vertical-offset="1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/Block/Adminhtml/Web/Edit/Tab/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="31" selection-start="924" selection-end="924" vertical-scroll-proportion="-17.806452" vertical-offset="72" max-vertical-offset="1512" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums/Edit/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="1" selection-start="3408" selection-end="3408" vertical-scroll-proportion="-36.258064" vertical-offset="1252" max-vertical-offset="2520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Template/Grid/Renderer/Image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="227" selection-end="695" vertical-scroll-proportion="-6.806452" vertical-offset="5" max-vertical-offset="696" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums/Edit/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="46" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="528">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendor/Block/Message.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="21" selection-start="3262" selection-end="3262" vertical-scroll-proportion="0.0" vertical-offset="2391" max-vertical-offset="3024">
+        <state line="14" column="75" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="792">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/controllers/IndexController.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Template/Grid/Renderer/Link.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="664">
+        <state line="18" column="54" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="648">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/controllers/ProductController.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/Block/Adminhtml/Albums/Grid.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="44" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="4344">
+        <state line="58" column="19" selection-start="1776" selection-end="1776" vertical-scroll-proportion="0.0" vertical-offset="965" max-vertical-offset="3024">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Wishlist/etc/config.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Final/controllers/Adminhtml/FinalController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="19" selection-start="2137" selection-end="2137" vertical-scroll-proportion="0.0" vertical-offset="1357" max-vertical-offset="4368">
+        <state line="188" column="27" selection-start="7532" selection-end="7532" vertical-scroll-proportion="0.0" vertical-offset="4121" max-vertical-offset="4752">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Fr06_Vendoreav.xml">
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/fr06/fr06/layout/vendoreav.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+        <state line="17" column="31" selection-start="663" selection-end="663" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Magentotutorial_Complexworld.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Customer/Model/Session.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="664">
+        <state line="220" column="41" selection-start="6060" selection-end="6081" vertical-scroll-proportion="-6.484375" vertical-offset="4313" max-vertical-offset="7920">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Magentotutorial/Complexworld/etc/config.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/controllers/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="326" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1152">
+        <state line="47" column="80" selection-start="1758" selection-end="1758" vertical-scroll-proportion="-11.806452" vertical-offset="762" max-vertical-offset="1416">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Entity/Attribute.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/Model/Customer/Observer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="41" selection-start="3320" selection-end="3355" vertical-scroll-proportion="-12.387096" vertical-offset="792" max-vertical-offset="2136">
+        <state line="14" column="64" selection-start="346" selection-end="346" vertical-scroll-proportion="-2.3225806" vertical-offset="264" max-vertical-offset="1008">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/sql/eav_setup/mysql4-upgrade-0.7.1-0.7.2.php">
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Customer/Model/Customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="736.25806" vertical-offset="22824" max-vertical-offset="31872">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/sql/eav_setup/mysql4-upgrade-0.7.2-0.7.3.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Fr06/Vendoreav/etc/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
+        <state line="0" column="29" selection-start="0" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2064">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/sql/eav_setup/mysql4-upgrade-0.7.3-0.7.4.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Xyz/Catalog/etc/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/sql/eav_setup/mysql4-upgrade-0.7.4-0.7.5.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Xyz/Catalog/Block/Form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="651">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/sql/eav_setup/mysql4-upgrade-0.7.5-0.7.6.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Xyz/Catalog/Model/Price/Observer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="535">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/sql/eav_setup/mysql4-install-0.7.0.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="192.0" vertical-offset="5952" max-vertical-offset="6456">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/sql/eav_setup/mysql4-upgrade-0.7.0-0.7.1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="535">
-          <folding>
-            <marker date="1400083416000" expanded="true" signature="-1:-1" placeholder="ALTER TABLE ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/sql/eav_setup/install-1.6.0.0.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="55" selection-start="1192" selection-end="1192" vertical-scroll-proportion="855.0" vertical-offset="26793" max-vertical-offset="27384">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Eav/Model/Entity/Abstract.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1717" column="6" selection-start="50169" selection-end="50169" vertical-scroll-proportion="-6.806452" vertical-offset="40445" max-vertical-offset="41040">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/etc/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="225" column="47" selection-start="7811" selection-end="7827" vertical-scroll-proportion="0.0" vertical-offset="5328" max-vertical-offset="20784">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Magentotutorial/Complexworld/controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="19" selection-start="832" selection-end="832" vertical-scroll-proportion="-8.806452" vertical-offset="279" max-vertical-offset="912">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Category/Url.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3384">
+        <state line="46" column="12" selection-start="1532" selection-end="1532" vertical-scroll-proportion="0.5890411" vertical-offset="760" max-vertical-offset="1344">
           <folding />
         </state>
       </provider>
