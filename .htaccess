@@ -217,3 +217,9 @@ SetEnvIf	Host	www\.ebook\.magento\.local	MAGE_RUN_CODE=ebook
 SetEnvIf	Host	www\.ebook\.magento\.local	MAGE_TYPE_CODE=website
 SetEnvIf	Host	^ebook.magento.local	MAGE_RUN_CODE=ebook
 SetEnvIf	Host	^ebook.magento.local	MAGE_RUN_TYPE=website
+
+
+SetEnvIf	Host	www\.magentomock\.com\.local	MAGE_RUN_CODE=mock
+SetEnvIf	Host	www\.magentomock\.com\.local	MAGE_RUN_TYPE=website
+SetEnvIf	Host	^magentomock.com.local	MAGE_RUN_CODE=mock
+SetEnvIf	Host	^magentomock.com.local	MAGE_RUN_TYPE=website

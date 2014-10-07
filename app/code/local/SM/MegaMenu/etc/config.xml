@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <SM_MegaMenu>
+            <version>0.1.0</version>
+        </SM_MegaMenu>
+    </modules>
+    <frontend>
+        <routers>
+            <sm_megamenu>
+                <use>standard</use>
+                <args>
+                    <module>SM_MegaMenu</module>
+                    <frontName>sm-megamenu</frontName>
+                </args>
+            </sm_megamenu>
+        </routers>
+    </frontend>
+    <global>
+        <blocks>
+
+        </blocks>
+        <models>
+
+        </models>
+    </global>
+</config>
